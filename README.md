@@ -1,2 +1,2 @@
 # Numpy-Matrices
-Worked with NumPy matrices (multidimensional data) in Google Colab Python notebooks, performing data visualization and analysis using various machine learning models.
+In this study, I will provide an example of Exploratory Data Analysis (EDA). I will use the National Health and Nutrition Examination Survey (NHANES) dataset and extract two CSV files: nhanes_adult_male_bmx_2020.csv and nhanes_adult_female_bmx_2020.csv. These files contain body measurements of adult males and females, respectively. We will perform various analyses, discuss the results of each, and create visualizations using the data from the dataset.
